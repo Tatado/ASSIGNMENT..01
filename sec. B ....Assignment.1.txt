@@ -1,0 +1,26 @@
+1.
+In Python, object-oriented Programming (OOPs) is a programming which uses objects and classes in programming.
+ It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc.
+2.
+The inheritance search is simply a search of the tree from bottom to top looking for the lowest occurrence of an attribute name.
+ Code implies the shape of such trees.
+3.
+A class is a blue print. Object . It is the copy of the class. 
+Intance is a variable which is used to hold memory address of the object.
+4.
+Python function arguments are used in order to pass data values through the functions declared in the program.
+5.
+The __init__ method is similar to constructors in C++ and Java.
+ Constructors are used to initialize the object’s state. 
+The task of constructors is to initialize(assign values) to the data members of the class when an object of class is created. 
+6.
+The new operator requires a single, postfix argument a call to a constructor.
+ The name of the constructor provides the name of the class to instantiate. The new operator returns a reference to the object it created.
+7.
+a.Declaration − A variable declaration with a variable name with an object type.
+b.Instantiation − The 'new' keyword is used to create the object.
+c.Initialization − The 'new' keyword is followed by a call to a constructor. This call initializes the new object.
+8.
+The class from which a class inherits is called the parent or superclass.
+ A class which inherits from a superclass is called a subclass, also called heir class or child class. 
+Superclasses are sometimes called ancestors as well.
